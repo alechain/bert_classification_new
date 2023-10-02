@@ -1,0 +1,10 @@
+script bert spanish: 
+https://colab.research.google.com/drive/148jlYuUurrSmpdn8l5IjRK3kaL4iYMoR#scrollTo=L5T2oCQetIAt
+bert english: 
+https://colab.research.google.com/drive/1zdVD90eKcJ5yLBvh5Q4eMiPNvtVkggB8#scrollTo=Tlv3VlPnKKHN
+bert guide:
+http://mccormickml.com/2019/07/22/BERT-fine-tuning/
+bert_video: https://www.youtube.com/watch?v=x66kkDnbzi4
+bert_guide_tokenize_plus:
+https://colab.research.google.com/drive/1pTuQhug6Dhl9XalKB0zUGf4FIdYFlpcX#scrollTo=2bBdb3pt8LuQ
+
